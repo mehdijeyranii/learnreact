@@ -1,0 +1,176 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ali Rezaei",
+            "email": "ali@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Sara Ahmadi",
+            "email": "sara@example.com"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introduction to Programming",
+            "content": "Programming is the art of solving problems through coding.",
+            "author": "Ali Mohammadi",
+            "date": "2024-11-20",
+            "category": ["Education"]
+        },
+        {
+            "id": 2,
+            "title": "Why is JavaScript so Popular?",
+            "content": "JavaScript is popular due to its flexibility and power in web development.",
+            "author": "Zahra Ahmadi",
+            "date": "2024-11-19",
+            "category": ["Technology"]
+        },
+        {
+            "id": 3,
+            "title": "Top 10 Tools for Developers",
+            "content": "This article introduces the best tools for developers.",
+            "author": "Saeed Hosseini",
+            "date": "2024-11-18",
+            "category": ["Tools"]
+        },
+        {
+            "id": 4,
+            "title": "Getting Started with TypeScript",
+            "content": "TypeScript provides safer coding practices in JavaScript.",
+            "author": "Maryam Kazemi",
+            "date": "2024-11-17",
+            "category": ["Education"]
+        },
+        {
+            "id": 5,
+            "title": "How to Start a React Project?",
+            "content": "React is one of the most popular libraries for building user interfaces.",
+            "author": "Mohammad Javadi",
+            "date": "2024-11-16",
+            "category": ["Programming"]
+        },
+        {
+            "id": 6,
+            "title": "SEO Best Practices",
+            "content": "SEO improves the ranking of websites in search engines.",
+            "author": "Elham Rezaei",
+            "date": "2024-11-15",
+            "category": ["SEO"]
+        },
+        {
+            "id": 7,
+            "title": "Introduction to Tailwind CSS",
+            "content": "Tailwind CSS is a utility-first framework for designing user interfaces.",
+            "author": "Hamed Zamani",
+            "date": "2024-11-14",
+            "category": ["Web Design"]
+        },
+        {
+            "id": 8,
+            "title": "How to Build an Online Store?",
+            "content": "Creating an online store requires specific tools and skills.",
+            "author": "Zahra Karimi",
+            "date": "2024-11-13",
+            "category": ["E-commerce"]
+        },
+        {
+            "id": 9,
+            "title": "Exploring Project Management Tools",
+            "content": "Project management tools help teams optimize their workflows.",
+            "author": "Ali Naderi",
+            "date": "2024-11-12",
+            "category": ["Management"]
+        },
+        {
+            "id": 10,
+            "title": "Understanding GraphQL",
+            "content": "GraphQL is a powerful tool for managing data in applications.",
+            "author": "Sara Hosseini",
+            "date": "2024-11-11",
+            "category": ["Programming"]
+        },
+        {
+            "id": 11,
+            "title": "The History of Programming Languages",
+            "content": "From Fortran to Python, programming languages have come a long way.",
+            "author": "Mehdi Rezaei",
+            "date": "2024-11-10",
+            "category": ["Education"]
+        },
+        {
+            "id": 12,
+            "title": "A Guide to Working with Vite",
+            "content": "Vite is a fast and simple tool for developing web applications.",
+            "author": "Fatemeh Ahmadi",
+            "date": "2024-11-09",
+            "category": ["Tools"]
+        },
+        {
+            "id": 13,
+            "title": "Code Optimization Tips",
+            "content": "Writing optimized and clean code can greatly enhance development efficiency.",
+            "author": "Hassan Abbasi",
+            "date": "2024-11-08",
+            "category": ["Programming"]
+        },
+        {
+            "id": 14,
+            "title": "Getting Started with WordPress",
+            "content": "WordPress is one of the best tools for creating professional websites.",
+            "author": "Narges Moradi",
+            "date": "2024-11-07",
+            "category": ["WordPress"]
+        },
+        {
+            "id": 15,
+            "title": "How to Create Engaging Content?",
+            "content": "Engaging content is a key factor in digital marketing success.",
+            "author": "Sina Ahmadi",
+            "date": "2024-11-06",
+            "category": ["Marketing"]
+        },
+        {
+            "id": 16,
+            "title": "Comparing JavaScript Frameworks",
+            "content": "React, Angular, and Vue are three of the most popular frameworks.",
+            "author": "Leila Hosseini",
+            "date": "2024-11-05",
+            "category": ["Programming"]
+        },
+        {
+            "id": 17,
+            "title": "The Role of APIs in Web Development",
+            "content": "APIs act as a bridge between the server and the client.",
+            "author": "Yaser Mohammadi",
+            "date": "2024-11-04",
+            "category": ["Programming"]
+        },
+        {
+            "id": 18,
+            "title": "Building a Successful Development Team",
+            "content": "Managing development teams requires skill and experience.",
+            "author": "Zeynab Karimi",
+            "date": "2024-11-03",
+            "category": ["Management"]
+        },
+        {
+            "id": 19,
+            "title": "Exploring UI/UX Design Tools",
+            "content": "Modern UI/UX tools make the design process more efficient.",
+            "author": "Arash Ghasemi",
+            "date": "2024-11-02",
+            "category": ["Web Design"]
+        },
+        {
+            "id": 20,
+            "title": "The Future of Artificial Intelligence",
+            "content": "AI is rapidly transforming the world of technology.",
+            "author": "Neda Ahmadi",
+            "date": "2024-11-01",
+            "category": ["Technology", "Web Design"]
+        }
+    ]
+}
